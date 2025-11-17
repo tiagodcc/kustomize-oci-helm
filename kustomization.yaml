@@ -1,0 +1,4 @@
+helmCharts:
+  - name: redis
+    version: 23.0.10
+    repo: oci://docker.registry.example.com/bitnamicharts

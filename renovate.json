@@ -1,1 +1,5 @@
-{}
+{
+    "registryAliases": {
+        "docker.registry.example.com": "registry-1.docker.io"
+    }
+}
